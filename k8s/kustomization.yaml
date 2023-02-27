@@ -5,6 +5,6 @@ resources:
 - route.yaml
 - service.yaml
 images:
-- digest: sha256:35b529a0167a3300610fe1a1e555a3280b39a0d0ac9c3c9d1344bf2887ecd007
-  name: quay.io/sachinayyar/tekton-argocd
-  newName: quay.io/sachinayyar/tekton-argocd
+- name: quay.io/sachinayyar/tekton-argocd
+  newName: quay.io/sachinayyar/tekton-argocd
+  newTag: de1a6c7dae03064f197090ac5de1da5b399db67e
