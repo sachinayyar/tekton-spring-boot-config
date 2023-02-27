@@ -6,5 +6,5 @@ resources:
 - service.yaml
 images:
 - digest: sha256:35b529a0167a3300610fe1a1e555a3280b39a0d0ac9c3c9d1344bf2887ecd007
-  name: quay.io/sachinayyar/tekton-serverless
-  newName: quay.io/sachinayyar/tekton-serverless
+  name: quay.io/sachinayyar/tekton-argocd
+  newName: quay.io/sachinayyar/tekton-argocd
